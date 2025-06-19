@@ -1,6 +1,6 @@
 # Privacy Policy for Belair SFTP Discord Bot
 
-_Last updated: June 19, 2025_
+_Last updated: June 18, 2025_
 
 ## 1. Data Collected
 The Belair SFTP Discord Bot only temporarily handles:
