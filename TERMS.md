@@ -3,25 +3,35 @@
 _Last updated: June 18, 2025_
 
 ## 1. Description
-The Belair SFTP Discord Bot is a private utility that sends random login keys to a designated Discord channel for the purpose of authenticating users within the Belair SFTP application. This bot is not intended for public use.
+The Belair SFTP Discord Bot is a **private tool** designed solely for sending temporary authentication keys to a designated Discord channel. This bot is **not intended for public use. Unauthorized access is strictly prohibited.**
 
-## 2. Usage
-By using the Belair SFTP Discord Bot, you understand and agree that:
-- The bot is provided as-is, without any guarantees of availability, security, or reliability.
-- The bot’s primary function is to send generated keys to a Discord channel.
-- You must have authorized credentials to use the bot and the associated application.
-- Unauthorized access, abuse, or any attempt to reverse-engineer the bot or the application is strictly prohibited.
+## 2. Usage Conditions
+By using the Belair SFTP Discord Bot, you acknowledge and agree that:
+- You use the bot entirely at your own risk.
+- The bot is provided **"as is"** with no guarantees of security, availability, accuracy, or performance.
+- You must have authorized access to use the bot and the Belair SFTP application.
+- Unauthorized use, abuse, reverse-engineering, or interference with the bot is strictly forbidden.
 
-## 3. Disclaimer
-The Belair SFTP Discord Bot is provided **"as is"** without warranty of any kind. The developer does not guarantee that the bot will function without errors or interruptions.
+## 3. Limitation of Liability
+**Under no circumstances shall the developer be held liable for:**
+- Any direct, indirect, incidental, consequential, or special damages.
+- Loss of access, data, profits, or functionality.
+- Security breaches, unauthorized access, or misuse of the bot.
+- Any issues caused by Discord outages, API changes, third-party disruptions, or user error.
 
-The developer is not responsible for:
-- Loss of access to services.
-- Malfunctions caused by Discord outages or API changes.
-- Any misuse or unauthorized access attempts.
+The **entire risk** associated with using the bot falls on the user.
 
-## 4. Termination
-The bot may be discontinued, restricted, or modified at any time without notice.
+## 4. Disclaimer of Warranties
+The bot is provided **without warranty of any kind**, either express or implied. This includes, but is not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-## 5. Changes to Terms
-These terms may be updated without prior notice. Continued use of the bot implies acceptance of the updated terms.
+## 5. Termination
+The bot may be modified, restricted, or discontinued at any time without notice and without liability.
+
+## 6. Governing Platform
+All use of the bot is also subject to [Discord’s Terms of Service](https://discord.com/terms) and [Privacy Policy](https://discord.com/privacy).
+
+## 7. Acceptance of Terms
+By using the bot, you confirm that you have read, understood, and agreed to these Terms of Service.
+
+## 8. Contact
+For any questions, please contact: `acstorm`
