@@ -1,6 +1,6 @@
 # Terms of Service for Belair SFTP Discord Bot
 
-_Last updated: June 19, 2025_
+_Last updated: June 18, 2025_
 
 ## 1. Description
 The Belair SFTP Discord Bot is a private utility that sends random login keys to a designated Discord channel for the purpose of authenticating users within the Belair SFTP application. This bot is not intended for public use.
