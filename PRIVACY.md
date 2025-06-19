@@ -1,25 +1,32 @@
 # Privacy Policy for Belair SFTP Discord Bot
 
-_Last updated: June 18, 2025_
+_Last updated: June 19, 2025_
 
 ## 1. Data Collected
-The Belair SFTP Discord Bot only temporarily handles:
-- **Usernames entered in the app** for validation purposes.
-- **Randomly generated login keys** which are sent to a specific Discord channel.
+The Belair SFTP Discord Bot **does not collect, store, or share any personal information.**  
+Temporary data processed by the bot includes:
+- **Usernames entered within the application** for real-time validation.
+- **Randomly generated login keys** posted in a designated private Discord channel.
 
-No additional personal data is collected, stored, or shared.
+These temporary data points are immediately discarded after their intended purpose is fulfilled.
 
 ## 2. Data Storage
-The bot **does not store any data** permanently. All keys and username references are used in real-time and are not retained after the session ends.
+The bot **does not permanently store any data.** All processed information is transient and automatically discarded after session completion.
 
 ## 3. Data Sharing
-No user data is shared with third parties. The only visible data is the key message posted in the designated private Discord channel.
+No user data is shared with any third parties. Key-related messages are only visible within the designated Discord channel used for internal authentication.
 
 ## 4. Security
-Reasonable measures are taken to ensure that keys are sent securely within Discord, but absolute security cannot be guaranteed.
+While reasonable care is taken to ensure that key messages are transmitted securely via Discord’s infrastructure, **absolute security cannot be guaranteed. The user assumes all risks associated with using the bot.**
 
-## 5. Your Rights
-Since no personally identifiable data is stored, there is no user data to delete or manage.
+## 5. No User Rights
+Since no personally identifiable information is stored, users have no data-related rights to exercise with respect to this bot.
 
-## 6. Changes to Privacy Policy
-This privacy policy may be updated without prior notice. Continued use of the bot implies acceptance of the updated policy.
+## 6. No Guarantees
+The developer makes **no guarantees regarding data handling, security, availability, or performance.** Use of the bot is at your own risk.
+
+## 7. Changes to Privacy Policy
+This Privacy Policy may be updated at any time without notice. Continued use of the bot constitutes acceptance of any modifications.
+
+## 8. Contact
+For questions, please contact: `your_discord_username#1234`
