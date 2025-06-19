@@ -29,4 +29,4 @@ The developer makes **no guarantees regarding data handling, security, availabil
 This Privacy Policy may be updated at any time without notice. Continued use of the bot constitutes acceptance of any modifications.
 
 ## 8. Contact
-For questions, please contact: `your_discord_username#1234`
+For questions, please contact: `acstorm`
