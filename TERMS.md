@@ -33,4 +33,4 @@ Use of the bot is also subject to [Discord’s Terms of Service](https://discord
 By using the bot, you confirm you understand and accept these terms.
 
 ## 8. Contact
-For questions, contact: `your_discord_username#1234`
+For questions, contact: `acstorm`
