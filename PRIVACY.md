@@ -1,30 +1,34 @@
 # Privacy Policy for Belair SFTP Discord Bot
 
-_Last updated: June 20, 2025_
+_Last updated: June 19, 2025_
 
 ## 1. Data Collected and Processed
-The Belair SFTP Discord Bot processes the following data solely for the purpose of authenticating users within the Belair SFTP application:
+The Belair SFTP Discord Bot processes the following data **specifically for the purpose of authenticating user logins within the Belair SFTP application:**
 
-- **Messages from a specific, designated Discord channel** containing account information created and managed by authorized staff.
-- **Usernames entered within the application** for real-time validation.
+- **Messages from a specific, designated Discord channel that contain user account information created and managed by authorized staff.**  
+- **Usernames entered within the Belair SFTP application** for real-time validation.
 - **Randomly generated login keys** sent to the designated Discord channel.
 
-This data is **read and processed in real-time only** and is **not stored permanently**.
+The bot **reads account information directly from the messages in the specified channel to verify whether users have a valid account and to allow them to log in to the application.**
+
+The data is **processed in real-time only and is not stored permanently.**
 
 ## 2. Data Storage
-No user data, messages, or keys are stored permanently by the bot. All data processed is transient and discarded immediately after authentication or validation is completed.
+The bot does not permanently store any user data, messages, or login keys.  
+All processed data is temporary and automatically discarded after the authentication process is completed.
 
 ## 3. Data Sharing
-User data is not shared with any third parties. Account messages and keys remain visible only within the designated private Discord channel controlled by authorized staff.
+The bot does not share any user data with third parties.  
+Messages and login keys remain visible only in the designated private Discord channel controlled by authorized staff.
 
 ## 4. Security
-While reasonable care is taken to secure communication through Discord’s platform, **absolute security cannot be guaranteed. Use of the bot is at your own risk.**
+Reasonable care is taken to process data securely via Discord’s infrastructure, but **absolute security cannot be guaranteed. Use of the bot is at your own risk.**
 
 ## 5. User Rights
-Since no personal data is stored permanently by the bot, there are no stored user data subject to deletion or management requests.
+Since the bot does not permanently store any user data, no user data is subject to deletion or management requests.
 
 ## 6. Changes to Privacy Policy
-This policy may be updated without prior notice. Continued use implies acceptance of updates.
+This Privacy Policy may be updated at any time without prior notice. Continued use of the bot constitutes acceptance of any future updates.
 
 ## 7. Contact
 For privacy-related questions, contact: `acstorm`
