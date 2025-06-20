@@ -1,6 +1,6 @@
 # Privacy Policy for Belair SFTP Discord Bot
 
-_Last updated: June 19, 2025_
+_Last updated: June 20, 2025_
 
 ## 1. Data Collected and Processed
 The Belair SFTP Discord Bot processes the following data **specifically for the purpose of authenticating user logins within the Belair SFTP application:**
