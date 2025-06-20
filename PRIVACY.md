@@ -1,32 +1,30 @@
 # Privacy Policy for Belair SFTP Discord Bot
 
-_Last updated: June 19, 2025_
+_Last updated: June 20, 2025_
 
-## 1. Data Collected
-The Belair SFTP Discord Bot **does not collect, store, or share any personal information.**  
-Temporary data processed by the bot includes:
+## 1. Data Collected and Processed
+The Belair SFTP Discord Bot processes the following data solely for the purpose of authenticating users within the Belair SFTP application:
+
+- **Messages from a specific, designated Discord channel** containing account information created and managed by authorized staff.
 - **Usernames entered within the application** for real-time validation.
-- **Randomly generated login keys** posted in a designated private Discord channel.
+- **Randomly generated login keys** sent to the designated Discord channel.
 
-These temporary data points are immediately discarded after their intended purpose is fulfilled.
+This data is **read and processed in real-time only** and is **not stored permanently**.
 
 ## 2. Data Storage
-The bot **does not permanently store any data.** All processed information is transient and automatically discarded after session completion.
+No user data, messages, or keys are stored permanently by the bot. All data processed is transient and discarded immediately after authentication or validation is completed.
 
 ## 3. Data Sharing
-No user data is shared with any third parties. Key-related messages are only visible within the designated Discord channel used for internal authentication.
+User data is not shared with any third parties. Account messages and keys remain visible only within the designated private Discord channel controlled by authorized staff.
 
 ## 4. Security
-While reasonable care is taken to ensure that key messages are transmitted securely via Discord’s infrastructure, **absolute security cannot be guaranteed. The user assumes all risks associated with using the bot.**
+While reasonable care is taken to secure communication through Discord’s platform, **absolute security cannot be guaranteed. Use of the bot is at your own risk.**
 
-## 5. No User Rights
-Since no personally identifiable information is stored, users have no data-related rights to exercise with respect to this bot.
+## 5. User Rights
+Since no personal data is stored permanently by the bot, there are no stored user data subject to deletion or management requests.
 
-## 6. No Guarantees
-The developer makes **no guarantees regarding data handling, security, availability, or performance.** Use of the bot is at your own risk.
+## 6. Changes to Privacy Policy
+This policy may be updated without prior notice. Continued use implies acceptance of updates.
 
-## 7. Changes to Privacy Policy
-This Privacy Policy may be updated at any time without notice. Continued use of the bot constitutes acceptance of any modifications.
-
-## 8. Contact
-For questions, please contact: `acstorm`
+## 7. Contact
+For privacy-related questions, contact: `acstorm`
