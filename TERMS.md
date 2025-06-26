@@ -3,7 +3,7 @@
 _Last updated: June 26, 2025_
 
 ## 1. Description
-The Belair SFTP Discord Bot is a tool that sends informational messages, such as patch notes, to designated Discord channels. It is not used for user authentication or data processing.
+The Belair SFTP Discord Bot is a tool that sends informational messages, such as patch notes, to designated Discord channels.
 
 ## 2. Usage Conditions
 By using the bot, you agree that:
